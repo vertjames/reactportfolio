@@ -1,0 +1,58 @@
+.background {
+  background: linear-gradient(#f5d968, #f7722a, #c11d6c);
+}
+
+.hero-text {
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.rambo-pic {
+  padding-top: 10%;
+  width: 100%;
+  position: relative;
+  animation: mymove 1.5s;
+}
+
+@keyframes mymove {
+  from {
+    left: -900px;
+  }
+  to {
+    left: 0px;
+  }
+}
+
+.portfolio {
+  padding-bottom: 80px;
+}
+
+.carousel-inner {
+  max-height: 400px;
+  max-width: 740px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.footerLink {
+  color: rgb(38, 38, 38);
+  text-decoration: none;
+}
+
+.footerLink:hover {
+  color: rgb(19, 19, 19);
+  text-decoration: underline;
+}
+
+.Resume {
+  margin-bottom: 30px
+}
