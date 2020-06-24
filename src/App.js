@@ -18,13 +18,13 @@ const App = () => {
         <Header />
         <Switch>
 
-          <Route exact path="/reactportfolio" component={Home} />
+          <Route exact path="#/" component={Home} />
             {/* <Home /> */}
-          <Route path="/reactportfolio/portfolio" component={Portfolio} />
+          <Route path="#/portfolio" component={Portfolio} />
             {/* <Portfolio /> */}
-          <Route path="/reactportfolio/contact" component={Contact} />
+          <Route path="#/contact" component={Contact} />
             {/* <Contact /> */}
-          <Route path="/reactportfolio/resume" component={Resume} />
+          <Route path="#/resume" component={Resume} />
             {/* <Resume /> */}
 
         </Switch>
