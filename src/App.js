@@ -16,20 +16,19 @@ const App = () => {
     <Router>
       <div>
         <Header />
-        <Home />
         <Switch>
 
-          <Route exact path="/">
-            <Home />
+          <Route exact path="/" component={Home}>
+            {/* <Home /> */}
           </Route>
-          <Route path="/portfolio">
-            <Portfolio />
+          <Route path="/portfolio" component={Portfolio}>
+            {/* <Portfolio /> */}
           </Route>
-          <Route path="/contact">
-            <Contact />
+          <Route path="/contact" component={Contact}>
+            {/* <Contact /> */}
           </Route>
-          <Route path="/resume">
-            <Resume />
+          <Route path="/resume" component={Resume}>
+            {/* <Resume /> */}
           </Route>
 
         </Switch>
