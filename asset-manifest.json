@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.51760bd3.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.6c4f515c.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.6c4f515c.chunk.js.map",
-    "runtime-main.js": "/reactportfolio/static/js/runtime-main.ff3c2836.js",
-    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.ff3c2836.js.map",
-    "static/js/2.ccb4eea9.chunk.js": "/reactportfolio/static/js/2.ccb4eea9.chunk.js",
-    "static/js/2.ccb4eea9.chunk.js.map": "/reactportfolio/static/js/2.ccb4eea9.chunk.js.map",
-    "index.html": "/reactportfolio/index.html",
-    "precache-manifest.6ad53e881e9044a206bce53cbc536e63.js": "/reactportfolio/precache-manifest.6ad53e881e9044a206bce53cbc536e63.js",
-    "service-worker.js": "/reactportfolio/service-worker.js",
-    "static/css/main.51760bd3.chunk.css.map": "/reactportfolio/static/css/main.51760bd3.chunk.css.map",
-    "static/js/2.ccb4eea9.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.ccb4eea9.chunk.js.LICENSE.txt",
-    "static/media/First-Blood.pdf": "/reactportfolio/static/media/First-Blood.58673ad0.pdf",
-    "static/media/rambo.png": "/reactportfolio/static/media/rambo.7c0ac939.png",
-    "static/media/stallone-logo.png": "/reactportfolio/static/media/stallone-logo.bcf87843.png"
+    "main.css": "/static/css/main.51760bd3.chunk.css",
+    "main.js": "/static/js/main.c38436c9.chunk.js",
+    "main.js.map": "/static/js/main.c38436c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e7c19c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e7c19c6.js.map",
+    "static/js/2.ccb4eea9.chunk.js": "/static/js/2.ccb4eea9.chunk.js",
+    "static/js/2.ccb4eea9.chunk.js.map": "/static/js/2.ccb4eea9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.edc369dab0aa7e92275b9cd4854b13dc.js": "/precache-manifest.edc369dab0aa7e92275b9cd4854b13dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.51760bd3.chunk.css.map": "/static/css/main.51760bd3.chunk.css.map",
+    "static/js/2.ccb4eea9.chunk.js.LICENSE.txt": "/static/js/2.ccb4eea9.chunk.js.LICENSE.txt",
+    "static/media/First-Blood.pdf": "/static/media/First-Blood.58673ad0.pdf",
+    "static/media/rambo.png": "/static/media/rambo.7c0ac939.png",
+    "static/media/stallone-logo.png": "/static/media/stallone-logo.bcf87843.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff3c2836.js",
+    "static/js/runtime-main.4e7c19c6.js",
     "static/js/2.ccb4eea9.chunk.js",
     "static/css/main.51760bd3.chunk.css",
-    "static/js/main.6c4f515c.chunk.js"
+    "static/js/main.c38436c9.chunk.js"
   ]
 }
