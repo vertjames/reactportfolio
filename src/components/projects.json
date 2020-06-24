@@ -2,7 +2,7 @@
   {
     "active": "carousel-item active",
     "name": "Project 1: InterviewEQ",
-    "image": "/static/media/slide1-InterviewEQ-Project1.cc33c262.jpg",
+    "image": "./assets/images/slide1-InterviewEQ-Project1.jpg",
     "location": "https://vertjames.github.io/InterviewEQ/",
     "description": "A tool to help development job seekers to improve their soft skills."
   },

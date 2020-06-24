@@ -14,23 +14,17 @@ import Footer from "./components/Footer";
 const App = () => {
   return (
     <Router basename={process.env.PUBLIC_URL}>
-      <div>
         <Header />
         <Switch>
 
           <Route exact path="/" component={Home} />
-            {/* <Home /> */}
           <Route path="/portfolio" component={Portfolio} />
-            {/* <Portfolio /> */}
           <Route path="/contact" component={Contact} />
-            {/* <Contact /> */}
           <Route path="/resume" component={Resume} />
-            {/* <Resume /> */}
 
         </Switch>
 
         <Footer />
-      </div>
     </Router>    
   );
 }
