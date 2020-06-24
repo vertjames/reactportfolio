@@ -16,7 +16,7 @@ const App = () => {
     <Router>
       <div>
         <Header />
-
+        <Home />
         <Switch>
 
           <Route exact path="/">
