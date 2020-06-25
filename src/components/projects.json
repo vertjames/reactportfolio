@@ -9,14 +9,14 @@
   {
     "active": "carousel-item",
     "name": "Project 2: DealTracker",
-    "image": "/static/media/slide2-Deal-Tracker-Project2.b1c96faa.jpg",
+    "image": "/reactportfolio/static/media/slide2-Deal-Tracker-Project2.jpg",
     "location": "https://dealtrackerapp.herokuapp.com",
     "description": "An app to help sales executives track deals through a visual pipeline."
   },
   {
     "active": "carousel-item",
     "name": "Burger Logger",
-    "image": "/static/media/burger-logger.b1d48898.jpg",
+    "image": "/publica/burger-logger.jpg",
     "location": "https://fierce-meadow-17870.herokuapp.com",
     "description": "An app to create and log different delicious hamburgers."
   },
