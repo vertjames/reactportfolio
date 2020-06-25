@@ -16,7 +16,7 @@
   {
     "active": "carousel-item",
     "name": "Burger Logger",
-    "image": "/publica/burger-logger.jpg",
+    "image": "/public/burger-logger.jpg",
     "location": "https://fierce-meadow-17870.herokuapp.com",
     "description": "An app to create and log different delicious hamburgers."
   },
