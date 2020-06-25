@@ -23,7 +23,7 @@
   {
     "active": "carousel-item",
     "name": "Workout Tracker",
-    "image": "/static/media/workout-tracker.05636d36.jpg",
+    "image": "https://github.com/vertjames/reactportfolio/blob/master/src/components/assets/images/workout-tracker.jpg?raw=true",
     "location": "https://hidden-retreat-77798.herokuapp.com/",
     "description": "Track the progress of your workouts with this full-stack app."
   },
