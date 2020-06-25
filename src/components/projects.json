@@ -2,21 +2,21 @@
   {
     "active": "carousel-item active",
     "name": "Project 1: InterviewEQ",
-    "image": "./assets/images/slide1-InterviewEQ-Project1.jpg",
+    "image": "https://github.com/vertjames/reactportfolio/blob/master/src/components/assets/images/slide1-InterviewEQ-Project1.jpg?raw=true",
     "location": "https://vertjames.github.io/InterviewEQ/",
     "description": "A tool to help development job seekers to improve their soft skills."
   },
   {
     "active": "carousel-item",
     "name": "Project 2: DealTracker",
-    "image": "/reactportfolio/static/media/slide2-Deal-Tracker-Project2.jpg",
+    "image": "https://github.com/vertjames/reactportfolio/blob/master/src/components/assets/images/slide2-Deal-Tracker-Project2.jpg?raw=true",
     "location": "https://dealtrackerapp.herokuapp.com",
     "description": "An app to help sales executives track deals through a visual pipeline."
   },
   {
     "active": "carousel-item",
     "name": "Burger Logger",
-    "image": "/reactportfolio/public/burger-logger.jpg",
+    "image": "https://github.com/vertjames/reactportfolio/blob/master/src/components/assets/images/burger-logger.jpg?raw=true",
     "location": "https://fierce-meadow-17870.herokuapp.com",
     "description": "An app to create and log different delicious hamburgers."
   },
@@ -30,14 +30,14 @@
   {
     "active": "carousel-item",
     "name": "Budget Tracker",
-    "image": "/static/media/budget-tracker.dddf21d6.jpg",
+    "image": "https://github.com/vertjames/reactportfolio/blob/master/src/components/assets/images/budget-tracker.jpg?raw=true",
     "location": "https://peaceful-plateau-48318.herokuapp.com",
     "description": "This full-stack app tracks deposits & expenses, whether online or offline."
   },
   {
     "active": "carousel-item",
     "name": "Weather Dashboard",
-    "image": "/static/media/weather-dashboard.59d66802.jpg",
+    "image": "https://github.com/vertjames/reactportfolio/blob/master/src/components/assets/images/weather-dashboard.jpg?raw=true",
     "location": "https://github.com/vertjames/weather-dashboard-homework",
     "description": "An weather dashboard that employs the OpenWeather API."
   }
