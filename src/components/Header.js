@@ -4,7 +4,7 @@ class Navbar extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand" href="/">
+        <a className="navbar-brand" href="/reactportfolio">
           <img src={require("./assets/images/stallone-logo.png")} width="auto" height="30" alt="Stallone Logo" />
         </a>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
